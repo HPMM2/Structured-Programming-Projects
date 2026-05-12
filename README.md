@@ -62,14 +62,6 @@ Collection of projects and exercises from my Structured Programming course at UA
 | 01 | **1D Array** | Creates, searches and prints a one-dimensional array |
 | 02 | **2D Matrix** | Matrix operations including diagonals and triangle sums |
 
-### 🔹 Professors
-
-| # | Project | Description |
-|---|---------|-------------|
-| — | **Professors** | Calculates salary raise for professors based on academic level |
-| — | **Professors 2.0** | Updated version with additional validations |
-| — | **Exam Exercise 2** | Salary raise calculation for professors by academic level |
-
 ### 🔹 Final Projects (PIA)
 
 | # | Project | Description |
