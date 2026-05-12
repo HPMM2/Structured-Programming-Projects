@@ -39,6 +39,8 @@ Collection of projects and exercises from my Structured Programming course at UA
 |---|---------|-------------|
 | 03 | **Multiplication Table** | Displays a multiplication table up to a given number |
 | 04 | **Approved / Failed** | Counts how many students passed or failed based on their grade |
+| — | **Professors 2.0** | Updated version with additional validations |
+| — | **Exam Exercise 2** | Salary raise calculation for professors by academic level |
 
 ### 🔹 DO-WHILE Exercises
 
